@@ -55,7 +55,7 @@
 <h3>🎮 Project 2</h3>
 <ul>
   <li>Unity를 활용한 비행기 개발 프로젝트</li>
-  <li> 구글스프라이트 연동 </li>
+  <li> 구글스프라이트 연동 , a* 알고리즘 </li>
   <li>구경하러 가기: <a href="https://blog.naver.com/PostView.naver?blogId=dbsgmlwns55&logNo=223207931648&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView">링크</a></li>
 </ul>
 
