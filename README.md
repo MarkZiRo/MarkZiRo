@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
+ <a href="https://solved.ac/yhj216">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your_id" alt="solved.ac tier"/>
+  </a>
+
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
