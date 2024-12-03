@@ -47,17 +47,24 @@
 
 <h3>🎮 Project 1</h3>
 <ul>
-  <li>Unity를 활용한 게임 개발 프로젝트</li>
-  <li>C#을 이용한 게임 로직 구현</li>
-  <li>자세히 보기: <a href="#">링크</a></li>
+  <li>Unity를 활용한 match3 개발 프로젝트</li>
+  <li> 구글 플레이스토어 출시 </li>
+  <li>구경하러 가기: <a href="https://www.youtube.com/watch?v=oTPj9XLlbyM">링크</a></li>
 </ul>
 
-<h3>💻 Project 2</h3>
+<h3>🎮 Project 2</h3>
+<ul>
+  <li>Unity를 활용한 비행기 개발 프로젝트</li>
+  <li> 구글스프라이트 연동 </li>
+  <li>구경하러 가기: <a href="https://blog.naver.com/PostView.naver?blogId=dbsgmlwns55&logNo=223207931648&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView">링크</a></li>
+</ul>
+
+
+<h3>💻 Project 3</h3>
 <ul>
   <li>Spring Boot & JPA를 활용한 백엔드 서버 개발</li>
-  <li>Docker를 이용한 컨테이너화</li>
-  <li>CI/CD 파이프라인 구축</li>
-  <li>자세히 보기: <a href="#">링크</a></li>
+  <li> 호텔예약 사이트</li>
+  <li>구경하러 가기: <a href="https://github.com/MarkZiRo/hotel">링크</a></li>
 </ul>
 
 
