@@ -36,7 +36,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkZiRoE&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 <h2>🌟 Featured Projects</h2>
