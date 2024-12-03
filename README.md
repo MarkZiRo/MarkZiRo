@@ -63,8 +63,22 @@
 <h3>💻 Project 3</h3>
 <ul>
   <li>Spring Boot & JPA를 활용한 백엔드 서버 개발</li>
+  <li> 중고거래, 쇼핑몰사이트 </li>
+  <li>구경하러 가기: <a href="https://github.com/MarkZiRo/shoppingmall/tree/master/project2">링크</a></li>
+</ul>
+
+
+<h3>💻 Project 4</h3>
+<ul>
+  <li> 다양한 api와 결제시스템 </li>
   <li> 호텔예약 사이트</li>
   <li>구경하러 가기: <a href="https://github.com/MarkZiRo/hotel">링크</a></li>
 </ul>
 
+<h3>💻 Project 5</h3>
+<ul>
+  <li> docker / git action </li>
+  <li> 가족여행 예약 사이트</li>
+  <li>구경하러 가기: <a href="https://github.com/MarkZiRo/travel">링크</a></li>
+</ul>
 
