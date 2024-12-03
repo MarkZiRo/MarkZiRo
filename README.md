@@ -56,11 +56,6 @@
   <li>자세히 보기: <a href="#">링크</a></li>
 </ul>
 
-<h2>📫 How to reach me</h2>
-<p>
-  <a href="mailto:your.email@example.com">📧 Email</a><br>
-  <a href="#">📝 Blog</a>
-</p>
 
 <style>
   div {
