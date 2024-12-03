@@ -34,7 +34,7 @@
 </p>
 
  <a href="https://solved.ac/yhj216">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your_id" alt="solved.ac tier"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhj216" alt="solved.ac tier"/>
   </a>
 
 <h2>📊 GitHub Stats</h2>
