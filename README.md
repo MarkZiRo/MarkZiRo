@@ -43,6 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MarkZiRo&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
+<h2> study 정리 </h2>
+<li><a href="https://github.com/MarkZiRo/spring-project/tree/master/study/bank">링크</a></li>
+
+
 <h2>🌟 Featured Projects</h2>
 
 <h3>🎮 Project 1</h3>
